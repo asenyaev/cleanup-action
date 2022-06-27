@@ -1,0 +1,5 @@
+name: 'Cleanup Action'
+description: 'Cleanup Action for a step in GitHub Actions'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
